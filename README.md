@@ -23,9 +23,7 @@ Real-time analysis of support tickets to identify angry customers and prevent ch
 
 # How to create a Sentiment Analyzing model ? 
 
-The best way to create a model for sentiment analysis is with transformer based models. This project uses DistilBERT model for sentiment analysis. DistilBERT  is a faster, lighter, cheaper and smaller  
-
-version of BERT (Bidirectional Encoder Representations from Transformers). While preserving over 95% of BERT's performance, it is 40% smaller and 60% faster than BERT. 
+The best way to create a model for sentiment analysis is with transformer based models. This project uses DistilBERT model for sentiment analysis. DistilBERT  is a faster, lighter, cheaper and smaller version of BERT (Bidirectional Encoder Representations from Transformers). While preserving over 95% of BERT's performance, it is 40% smaller and 60% faster than BERT. 
 
 # DATASET 
 
