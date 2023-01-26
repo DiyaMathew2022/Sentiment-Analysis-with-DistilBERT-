@@ -21,7 +21,7 @@ Real-time analysis of support tickets to identify angry customers and prevent ch
 
  
 
-# How to implement a Sentiment Analyzing App ? 
+# How to create a Sentiment Analyzing model ? 
 
 The best way to create a model for sentiment analysis is with transformer based models. This project uses DistilBERT model for sentiment analysis. DistilBERT  is a faster, lighter, cheaper and smaller  
 
